@@ -63,4 +63,28 @@ ops = input("Enter a operator \n")
 calculation(value1, value2)
 ```
 
-# Week III Report coming soon
+## Week III Report March 31, 2023
+### Understanding Function and Build in function in Python
+
+### In Python any time we  see the word "def" it's a reserved key word that defined a function or invoke a function to be called. According to Python for every body the "def" shouldn't be use as variable name. In this report we will talk about  parameter, aurgement, indentation, function called and operators which include, comparison operator and arithmetic operators in python,  global variable and local variable. These are key fundemental we most understand before proceed deeper in programming. 
+
+```python
+    def Userlogin(user1, password1):
+    if user1 == user2 and password1 == password2:
+        print("Login Successful")
+    else:
+        print("Invalid Entry")
+    
+
+
+print("Follow the instruction to register")       
+user1 = str(input("Enter your name \n"))
+password1 = int(input("Create a password\n"))
+user2 = input("Enter your user name\n")
+password2 = input("Enter your password\n")
+
+        
+
+    
+
+```
